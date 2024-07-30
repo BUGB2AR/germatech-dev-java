@@ -33,7 +33,8 @@ O sistema realiza as seguintes validações:
 - **Validação de Campos Vazios**: Todos os campos devem ser preenchidos antes de adicionar ou atualizar um usuário.
 - **Validação de CPF**: O CPF é validado para garantir que siga o formato correto e não seja uma sequência de números iguais.
 - **Verificação de Duplicidade**: Não é permitido cadastrar usuários com CPFs já existentes.
-- 
+- **Bycript**: Salvando a senha cripitada no banco com bycript.
+
 ## Imagens
 
 Aqui estão algumas capturas de tela do sistema:
