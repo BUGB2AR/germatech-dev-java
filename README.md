@@ -35,6 +35,13 @@ O sistema realiza as seguintes validações:
 - **Verificação de Duplicidade**: Não é permitido cadastrar usuários com CPFs já existentes.
 - **Bycript**: Salvando a senha cripitada no banco com bycript.
 
+## Como Rodar
+- O projeto foi desenvolvido usando a ide intellij community basta instalar a ide na jetbrains a versao que usei totalmente gratis
+- importar o projeto e encontrar a main, o projeto usa maven facilita no momento de baixar as dependencias do projeto com mvn
+- configurar o banco de dados postgres o usuario: postgres e senha: postgres banco: postgres
+- em outras ides como eclipse basta importar como maven project rodar o clean install
+- e depois rodar a classe Main
+
 ## Imagens
 
 Aqui estão algumas capturas de tela do sistema:
